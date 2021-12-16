@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Test
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Max
+    family-names: Mustermann
+    email: mustermann@web.org
+    affiliation: University of O....
+repository-code: 'https://github.com/GeSchr/Test2'
+abstract: Test abstract
+keywords:
+  - Test
+  - software
+license: CC0-1.0
+version: '1.0'
+date-released: '2021-12-16'
